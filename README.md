@@ -5,11 +5,11 @@
 1. Project Overview:
    This project is a Machine Learning Classification model developed to predict the credit risk of loan applicants. The model helps financial institutions  m m     identify whether an applicant is likely to default on a loan based on various financial and demographic factors.
 
-Objectives
-Analyze customer financial data
-Predict loan default risk
-Improve decision-making in credit approval
-Reduce financial losses for lenders
+2. Objectives:
+    Analyze customer financial data
+    Predict loan default risk
+    Improve decision-making in credit approval
+    Reduce financial losses for lenders
 Technologies Used
 Python
 Pandas
