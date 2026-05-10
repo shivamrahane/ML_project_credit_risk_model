@@ -80,3 +80,19 @@
    > Real-time loan risk prediction
 
    > Clean and responsive UI
+
+8. Future Improvements:
+   
+   > Add Deep Learning models
+ 
+   > Deploy using Docker & Cloud
+
+   > Add Explainable AI (SHAP/LIME)
+
+   > Automate ML pipeline using MLOps
+
+Author
+
+Shivam Kumar
+
+Aspiring Data Scientist & Machine Learning Enthusiast
