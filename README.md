@@ -1,7 +1,9 @@
 # ML_project_credit_risk_model
 
-Credit Risk Prediction Model
-Project Overview
+#Credit Risk Prediction Model
+
+1. Project Overview
+
 
 This project is a Machine Learning Classification model developed to predict the credit risk of loan applicants. The model helps financial institutions identify whether an applicant is likely to default on a loan based on various financial and demographic factors.
 
