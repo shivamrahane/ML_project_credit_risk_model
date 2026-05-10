@@ -7,9 +7,13 @@
 
 2. Objectives:
     Analyze customer financial data
+   
     Predict loan default risk
+   
     Improve decision-making in credit approval
+   
     Reduce financial losses for lenders
+   
 Technologies Used
 Python
 Pandas
